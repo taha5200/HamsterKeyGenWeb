@@ -83,12 +83,8 @@ To get started with the project, follow these steps:
     - Progress bar and status updates during key generation.
     - List of generated keys with copy buttons.
     - Footer with a disclaimer and source code link.
-
-## Disclaimer
+    - ## Disclaimer
 
 This tool is for educational purposes only. Use responsibly.
 
 ## License
-
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
-
