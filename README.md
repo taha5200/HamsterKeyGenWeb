@@ -3,9 +3,6 @@
 
 
 This project is a web-based application for generating promo codes for various games. The application allows users to select a game, choose the number of promo codes they want to generate, and then generates the codes while showing the progress. The application also includes options to copy the generated codes to the clipboard.
-
-## ⭐ 💹 Need bulk keys? 
-- Contact me: [Telegram](https://t.me/Shafiq)
   
 ## Features
 
@@ -22,7 +19,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/ShafiqSadat/HamsterKeyGenWeb.git
+    git clone https://github.com/Taha5200/HamsterKeyGenWeb.git
     ```
 
 2. **Open the Project**:
